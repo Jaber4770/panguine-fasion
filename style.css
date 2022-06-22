@@ -1,24 +1,46 @@
-*{
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
     padding: 0px;
     margin: 0px;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Rubik', sans-serif;
 }
-.header-bg{
+
+.header-bg {
     background-color: #fef3c7;
 }
-.page-mergin{
+
+.page-mergin {
     margin: 0 6%;
 }
-.nav-flex{
+
+.nav-flex {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.nav-icon-d{
+
+.nav-icon-d {
     width: 23%;
 }
-.nav-icon{
+
+.nav-icon {
     width: 100%;
 }
-.nav-item{
+
+.nav-item {
     display: flex;
+    list-style-type: none;
+}
+
+.nav-i-padng {
+    padding: 20px 15px;
+}
+
+.nav-i-padng a {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 18px;
+    color: rgb(41, 39, 39);
 }
