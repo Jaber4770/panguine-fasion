@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header-bg{
+    background-color: #fef3c7;
+}
+.page-mergin{
+    margin: 0 6%;
+}
+.nav-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-icon-d{
+    width: 23%;
+}
+.nav-icon{
+    width: 100%;
+}
+.nav-item{
+    display: flex;
+}
