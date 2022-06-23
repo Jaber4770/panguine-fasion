@@ -89,3 +89,67 @@
 .bottom-padding{
     padding-bottom: 100px;
 }
+/* main , section 1 */
+.jacket-header{
+    font-size: 40px;
+    padding: 50px 0 25px 0;
+}
+.cards{
+    display: flex;
+}
+.card{
+    box-shadow: 0 0 10px 1px rgb(212, 207, 207);
+    width: 30%;
+    padding: 17px;
+    border-radius: 10px;
+}
+.img-w{
+    background-color: rgb(221, 221, 221);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-w img{
+    width: 90%;
+    border-radius: 10px;
+}
+.card-heading{
+    padding: 17px 0;
+    font-size: 30px;
+}
+.card-pera{
+    line-height: 25px;
+}
+.card-btn-pc{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+.card-price{
+    font-size: 50px;
+    color: #fbbf24;
+}
+.card-btn{
+    padding: 13px 30px;
+    border: none;
+    background-color: #059669;
+    color: white;
+    font-size: 17px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.card-btn img{
+    width: 27px;
+    margin-right: 5px;
+}
+.middle-card{
+      margin: 0 2%;
+}
+.section-margin-btm{
+    margin-bottom: 100px;
+}
