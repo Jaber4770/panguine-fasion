@@ -87,7 +87,7 @@
     margin-right: 5px;
 }
 .bottom-padding{
-    padding-bottom: 100px;
+    padding-bottom: 50px;
 }
 /* main , section 1 */
 .jacket-header{
@@ -111,8 +111,10 @@
     align-items: center;
 }
 .img-w img{
-    width: 90%;
+    width: 80%;
     border-radius: 10px;
+    height: 20rem;
+    padding: 20px 0;
 }
 .card-heading{
     padding: 17px 0;
@@ -152,4 +154,19 @@
 }
 .section-margin-btm{
     margin-bottom: 100px;
+}
+
+
+
+
+
+/* Footer */
+.footer-bg{
+    background-color: #FDE68A;
+}
+.footer-p{
+    font-weight: 700;
+    text-align: center;
+    padding: 10px;
+    font-size: 22px;
 }
