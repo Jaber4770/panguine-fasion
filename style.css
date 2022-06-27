@@ -155,6 +155,10 @@
 .section-margin-btm{
     margin-bottom: 100px;
 }
+/* last section */
+.section-grid{
+    display: grid;
+}
 
 
 
